@@ -73,7 +73,7 @@ textarea {
   background-color: #eee;
   overflow: hidden;
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr auto;
 }
 
 .tmr-list__item.active {
